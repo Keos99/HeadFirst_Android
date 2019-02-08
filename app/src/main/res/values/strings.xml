@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HeadFirst_Android</string>
+    <string name="beer_button_text">Find Beer!!!</string>
+    <string name="beer_textview">No beer collor selected!</string>
+    <string-array name="beer">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+</resources>
