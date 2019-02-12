@@ -8,4 +8,32 @@
         <item>brown</item>
         <item>dark</item>
     </string-array>
+    <string-array name="amber">
+        <item>Williams, "Fraoch" Heather Ale</item>
+        <item>Engel, "Hefeweizen Hell"</item>
+        <item>Fuller's, "London Pride"</item>
+        <item>"Grimbergen" Double Ambree</item>
+        <item>"Schofferhofer" Hefeweizen</item>
+    </string-array>
+    <string-array name="light">
+        <item>Bosteels, "Tripel Karmeliet"</item>
+        <item>Spaten, Munchen Hell</item>
+        <item>Westmalle, "Trappist" Tripel</item>
+        <item>Engel, "Gold"</item>
+        <item> "Leffe" Blonde</item>
+    </string-array>
+    <string-array name="brown">
+        <item>Bosteels, "Pauwel Kwak"</item>
+        <item>"Trappistes Rochefort"</item>
+        <item>"Hertog Jan" Grand Prestige</item>
+        <item>Van Honsebrouck, "Kasteel" Rouge</item>
+        <item>Westmalle, "Trappist" Dubbel</item>
+    </string-array>
+    <string-array name="dark">
+        <item>Neuzeller Kloster-Brau, "Schwarzer Abt"</item>
+        <item>Wychwood, "Black Wych"</item>
+        <item>Carlow, "O'Hara's" Leann Follain</item>
+        <item>"Tsingtao" Stout</item>
+        <item>Belhaven, "Black" Scottish Stout</item>
+    </string-array>
 </resources>
