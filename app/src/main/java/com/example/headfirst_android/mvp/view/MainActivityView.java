@@ -6,5 +6,5 @@ import com.arellomobile.mvp.viewstate.strategy.StateStrategyType;
 
 @StateStrategyType(AddToEndSingleStrategy.class)
 public interface MainActivityView extends MvpView {
-    void beerTextViewSetText();
+    void beerTextViewSetText(String text);
 }
